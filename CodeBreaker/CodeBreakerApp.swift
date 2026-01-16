@@ -2,7 +2,7 @@
 //  CodeBreakerApp.swift
 //  CodeBreaker
 //
-//  Created by YoungSeok Shin on 1/15/26.
+//  Created by Barbara Lyakisheva on 1/15/26.
 //
 
 import SwiftUI
